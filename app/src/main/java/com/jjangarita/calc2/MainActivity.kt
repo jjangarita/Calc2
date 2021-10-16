@@ -1,11 +1,5 @@
 package com.jjangarita.calc2
 
-
-package net.objecthunter.exp4j;
-
-import java.util.*;
-
-
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.jjangarita.calc2.databinding.ActivityMainBinding
